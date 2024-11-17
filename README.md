@@ -2,6 +2,8 @@
 emr-apache-iceberg-workshop
 ![1731687994629](https://github.com/user-attachments/assets/14272ae0-0096-4a88-8506-30c094e91e73)
 
+##### Blog with steps 
+https://www.linkedin.com/pulse/building-medallion-architecture-emr-serverless-apache-soumil-shah-xboqe/?trackingId=hZ%2Bw5BhVQWOi9JaFQ33jbw%3D%3D
 
 # Command 
 
